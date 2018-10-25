@@ -1,0 +1,9 @@
+G=10
+Type Variable Name Here=620
+vf=10
+y=5*x+12
+summer=500
+resistance=15
+voltage=20
+x=10
+preans=0

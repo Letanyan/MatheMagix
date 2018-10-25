@@ -1,0 +1,198 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\deflang1033\deflangfe1033{\fonttbl{\f0 Tahoma;}}
+\f0{\colortbl;\red192\green192\blue192;}{\*\generator Wine Riched20 2.0.????;}\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone *}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 11}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone .}{\cf1\fs20\ulnone 36363636363636}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 07}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 19 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 25}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 25}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 25}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 20}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 20}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 07}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 52 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone *}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 15}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone .}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 24}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 53 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone *}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone *(}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone *}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone .}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone )}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 9}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 0}{\cf1\fs20\ulnone .}{\cf1\fs20\ulnone 9}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 6}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 25}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 29 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 5 }{\cf1\fs20\ulnone = }{\cf1\fs20\ulnone 10}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 10}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 1}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 31}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 03 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 5 }{\cf1\fs20\ulnone = }{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 95}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 19}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 31}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 13 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone xx }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 5 }{\cf1\fs20\ulnone = }{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone xx}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone xx}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone xx}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 95}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 9}{\cf1\fs20\ulnone .}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 31}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 33 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 5 }{\cf1\fs20\ulnone = }{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 5}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 95}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 19}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 31}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 45 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x }{\cf1\fs20\ulnone = }{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone y}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 10}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 100}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 10}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 31}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 51 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 0}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 0}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  Undefined}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 08}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 39 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x }{\cf1\fs20\ulnone + }{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 2}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 3}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 0}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 0}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  Undefined}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 08}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 41 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 0}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 0}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 09}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 09 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Equation to Solve}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Seperate Terms to appropriate sides}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone 5}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone -}{\cf1\fs20\ulnone 4}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Simplify}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone +}{\cf1\fs20\ulnone 1}{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =+}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone  }
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone Final Answer by isolating Variable}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone x}{\cf1\fs20\ulnone =}{\cf1\fs20\ulnone 3}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0{\cf1\fs20\ulnone ----}{\cf1\fs20\ulnone 8}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 09}{\cf1\fs20\ulnone :}{\cf1\fs20\ulnone 16 }{\cf1\fs20\ulnone PM}{\cf1\fs20\ulnone ----}
+\par\pard\sl-240\slmult1\li0\fi0\ri0\sa0\sb0\s-1\cfpat0\cbpat0
+\par} 

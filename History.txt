@@ -1,0 +1,37 @@
+DOUBLE CLICK an item to insert the EQUATION
+SINGLE CLICK an item to insert the answer INTO the CURRENT EQUATION
+5*(10+5)
+5*2
+5*2
+5*2
+10+5
+15*2
+2/(4)(10)
+5*VAR("vf", 10)
+if("3
+CONVERT("Centimeters, Millimeters", 10)
+SUMIF("@>5 and @<10", 8, 10,9)
+SUMIF("@>5 and @<10", 8, 10,9)
+SUMIF("{@>4 and @<7} or {@>30 or {@=5 and @>4}}", 6, 7, 3, 5, 23, 32)
+CONVERT("Celsius, Fahrenheit", 5)
+VAR("summer", 500)
+ANGRYBIRD(5)
+LOGIC(50000)
+6/(3)(2)
+(5.9736E24)+(696265000)+(1.9891E30)
+BOOL("50>8 and {5=5 or 6>20}")
+CONVERT("Meters, Kilometers", 100)/CONVERT("Seconds, Hours", 9.67)
+UTEST(5, 6)+x
+VAR("voltage", 10*2) * VAR("resistance", 15) 
+ABS(-power(2,3)*2)
+2^(3^2)
+IF(BOOL("50 or 3 > 20"), 10, 15)
+VAR("x", 10) + 5
+VAR("x", 19) + 5
+VAR("x", 5)^2
+VAR("x", 2)
+AVERAGE(5, 4, 3)
+AVERAGEIF("{>=3 and <>5} or {=1}", 5, 4, 3, 1, 2, 1)
+IF(BOOL("5>20"), 5, 8)
+TEST(5+1)
+VAR("x",10)

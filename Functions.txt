@@ -1,0 +1,76 @@
+TEST
+[
+RETURN(@1^3)
+
+]
+IFTEST
+[
+IF("(@1) in 0 & 100")
+<
+ RETURN(pi())
+>
+<
+ IF("(@1) <> 0")
+ <  
+  RETURN(pi()*-1)
+ >
+ <
+  RETURN(0) 
+ >
+>
+
+]
+SAVETEST
+[
+IF("not{(@1 * 10) = (TRUNC(@1) * 10)}")
+<
+ NUMBER("dec", FRAC(@1))
+ RETURN(dec*10)
+>
+<
+ RETURN(1)
+>
+
+]
+ARRAY
+[
+RETURN(SUM(@1, @2) / @3)
+
+]
+UTEST
+[
+RETURN(@1+@2)
+
+]
+EXAMPLE
+[
+IF("(@2) <> 0")
+< 
+ RETURN(@1 / @2)
+>
+<
+ Return(1E23)
+>
+
+]
+ISEQUAL
+[
+IF("(@1) = (@2)")
+<
+ RETURN(1)
+>
+<
+ RETURN(0)
+>
+
+]
+GRE
+[
+IF("(@1) < 10")
+<
+   RETURN(0)
+>
+<
+   RETURN(1)
+>
+]
